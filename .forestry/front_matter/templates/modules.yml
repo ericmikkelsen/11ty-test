@@ -7,6 +7,7 @@ fields:
   label: Modules
   template_types:
   - hero
+  - features
   config:
     min: 
     max: 
