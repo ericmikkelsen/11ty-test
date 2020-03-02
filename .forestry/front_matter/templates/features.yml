@@ -1,4 +1,27 @@
 ---
 label: Features
 hide_body: true
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: list
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: text
+    config:
+      required: false
+    label: Body
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Features
