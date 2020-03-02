@@ -1,0 +1,22 @@
+{
+  "name": "11ty-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmikkelsen/11ty-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmikkelsen/11ty-test/issues"
+  },
+  "homepage": "https://github.com/ericmikkelsen/11ty-test#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
