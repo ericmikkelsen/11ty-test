@@ -2,6 +2,6 @@
 title: Bjork
 modules:
 - template: _-hero
-  heading: ''
+  heading: Björk Guðmundsdóttir
 
 ---
