@@ -12,5 +12,18 @@ fields:
   config: {}
   template: modules
   label: Modules
+- name: taxonomies
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Engineering
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Taxonomies
 pages:
 - bjork-2.md
