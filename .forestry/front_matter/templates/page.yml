@@ -8,4 +8,5 @@ fields:
     required: false
   label: Title
 pages:
+- "./bjork-1.md"
 - "./bjork.md"
