@@ -7,5 +7,10 @@ fields:
   config:
     required: false
   label: Title
+- name: modules
+  type: include
+  config: {}
+  template: modules
+  label: Modules
 pages:
 - bjork-2.md
