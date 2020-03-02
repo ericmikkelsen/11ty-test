@@ -1,4 +1,12 @@
 ---
 label: Modules
 hide_body: true
-fields: []
+fields:
+- name: modules
+  type: blocks
+  label: Modules
+  template_types:
+  - _-hero
+  config:
+    min: 
+    max: 
