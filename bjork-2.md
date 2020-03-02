@@ -1,5 +1,7 @@
 ---
 title: Bjork
-modules: []
+modules:
+- template: _-hero
+  heading: ''
 
 ---
