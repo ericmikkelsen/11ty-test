@@ -7,7 +7,6 @@ sections:
 - type: document
   path: meta.md
   label: Site Meta Data
-  match: "**/*"
 - type: directory
   path: "."
   label: Pages
