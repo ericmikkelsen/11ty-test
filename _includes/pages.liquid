@@ -1,1 +1,13 @@
-<h2>bob</h2>
+
+
+{% for module in modules %}
+
+        {% assign folder = 'modules/' %}
+
+        {% assign filename = module.template|append:'.liquid' %}
+
+        {% assign path = folder|append:filename %}
+
+        {% include path with module %}
+
+{% endfor %}
