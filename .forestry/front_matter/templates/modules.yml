@@ -5,7 +5,8 @@ fields:
 - name: modules
   type: blocks
   label: Modules
-  template_types: []
+  template_types:
+  - hero
   config:
     min: 
     max: 
