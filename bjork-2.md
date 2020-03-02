@@ -29,7 +29,7 @@ modules:
       Music Prize from the Royal Swedish Academy of Music in recognition of her "deeply
       personal music and lyrics, her precise
 - template: wysiwyg
-  wysiwyg: ''
+  wysiwyg: "&lt;h2&gt;bob&lt;/h2&gt;"
 taxonomies: Engineering
 
 ---
