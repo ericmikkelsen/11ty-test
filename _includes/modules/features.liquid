@@ -1,0 +1,9 @@
+<h2>{{module.heading}}</h2>
+<ul>
+    {% for item in module.list %}
+        <li>
+            <h3>{{item.heading}}</h3>
+            <p>{{item.body}}</p>
+        </li>
+    {% endfor %}
+</ul>
