@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ericmikkelsen/11ty-test#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
